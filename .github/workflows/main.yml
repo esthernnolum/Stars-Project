@@ -1,4 +1,4 @@
-name: Node.js CI
+name: Sonalysis CICD
 
 # Controls when the workflow will run
 on:
